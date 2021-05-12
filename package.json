@@ -23,12 +23,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zachleat/speedlify.git"
+    "url": "git+https://github.com/rubenamorim/speedlify.git"
   },
   "bugs": {
-    "url": "https://github.com/zachleat/speedlify/issues"
+    "url": "https://github.com/rubenamorim/speedlify/issues"
   },
-  "homepage": "https://github.com/zachleat/speedlify#readme",
+  "homepage": "https://github.com/rubenamorim/speedlify#readme",
   "dependencies": {
     "@11ty/eleventy": "0.12.1",
     "@11ty/eleventy-cache-assets": "^2.1.0",
