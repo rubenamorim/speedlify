@@ -3,8 +3,7 @@
 let lastruns = {};
 
 try {
-	lastruns = require("./results-last-runs.json");
-} catch(e) {
-}
+  lastruns = require("./results-last-runs.json");
+} catch (e) {}
 
 module.exports = lastruns;

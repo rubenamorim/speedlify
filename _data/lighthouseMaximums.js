@@ -16,5 +16,4 @@ module.exports = {
     cls: 0.1,
     // fid: 130,
   },
-  
 };
